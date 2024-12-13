@@ -1,9 +1,9 @@
 const num = 13;
 const expicit = String(num);
-
 console.log(typeof(expicit));
 
-// the num integer will be converted to the string type
+// the num integer will be converted to the string type "explicit conversion"
+
 
 
 
