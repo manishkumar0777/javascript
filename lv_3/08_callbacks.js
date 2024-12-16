@@ -5,8 +5,9 @@ function doSomething(callback){
 
 doSomething(console.log); // the Output is : 1
 
-//Asynchrounous
 
+
+//Asynchrounous
 function doSomethingAsync(callback){
     setTimeout(function (){callback(1) }, 1000);
 }
