@@ -36,6 +36,6 @@ const newPerson = {
     greet : () => {console.log('hi..' + this.name)},
 }
 
-newPerson.greet();
+newPerson.greet(); // the output will be undefined
 
 
