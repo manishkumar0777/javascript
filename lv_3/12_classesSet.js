@@ -29,7 +29,7 @@ console.log('s should have 5 members and actiually has : ', s.size);
 console.log('s should constain 5:', s.has(5));
 
 s.add(6); 
-console.log('s should contain 7:', s.has(7));
+console.log('s should contain 7:', s.has(6));
 console.log('s should have 6 members and actually has:', s.size);
 
 
